@@ -6,7 +6,7 @@ This is a personal terminal-style GUI app built using Python's Tkinter library. 
 
 ### 🖼️ Preview
 
-![App Screenshot](screenshot.png)
+![App Screenshot](Screenshot.png)
 
 ---
 
